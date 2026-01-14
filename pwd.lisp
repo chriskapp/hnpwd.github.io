@@ -27,6 +27,13 @@
   :hnuid "chrismorgan"
   :bio "Software developer, dealing mostly with web things.")
 
+ (:name "Christoph Kappestein"
+  :site "https://chrisk.app/"
+  :blog "https://chrisk.app/blog"
+  :feed "https://chrisk.app/feed"
+  :hnuid "k42b3"
+  :bio "Software developer, building and innovating solutions for the API ecosystem.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
